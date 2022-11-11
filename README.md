@@ -2,6 +2,7 @@
 <table> 
  
 <tr>
+
 <td width="30%">
    
 <div align="center">
@@ -12,7 +13,11 @@
 <!-- ![kaws](https://user-images.githubusercontent.com/102597172/200875839-7c6ae2f6-1b3a-424d-8c7b-cd7386788f33.png#gh-dark-mode-only) -->
 
 
-![15 Vintage Inventions That Are Actually Borderline Genius](https://user-images.githubusercontent.com/102597172/201065258-9996b884-62c9-46ef-8495-15fd7aad590d.jpeg)
+![pngwing com (9)](https://user-images.githubusercontent.com/102597172/201266777-b857fdf9-4f96-4839-a0f6-4f929379c0c5.png)
+
+
+
+
 
 
 
@@ -60,7 +65,7 @@
  
 <div align="center">
 
-<br><br><br><br><br>
+<br><br><br>
  
 [![iejayyoulight](https://user-images.githubusercontent.com/102597172/200901222-228007a4-54e6-4853-b6f2-e5fc32e42d18.png)](https://github.com/dlworhd/dlworhd/wiki/reference#gh-light-mode-only)
 [![iejayyoudark](https://user-images.githubusercontent.com/102597172/200901258-09e7bd13-d657-42d2-a382-bde9de814a83.png)](https://github.com/dlworhd/dlworhd/wiki/reference#gh-dark-mode-only)
