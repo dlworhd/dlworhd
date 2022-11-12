@@ -69,8 +69,8 @@
 
 <br><br><br>
  
-[![iejayyoulight](https://user-images.githubusercontent.com/102597172/200901222-228007a4-54e6-4853-b6f2-e5fc32e42d18.png)](https://github.com/dlworhd/dlworhd/wiki/reference#gh-light-mode-only)
-[![iejayyoudark](https://user-images.githubusercontent.com/102597172/200901258-09e7bd13-d657-42d2-a382-bde9de814a83.png)](https://github.com/dlworhd/dlworhd/wiki/reference#gh-dark-mode-only)
+[![iejayyoulight](https://user-images.githubusercontent.com/102597172/200901222-228007a4-54e6-4853-b6f2-e5fc32e42d18.png)](https://github.com/dlworhd/dlworhd/wiki/Documents#gh-light-mode-only)
+[![iejayyoudark](https://user-images.githubusercontent.com/102597172/200901258-09e7bd13-d657-42d2-a382-bde9de814a83.png)](https://github.com/dlworhd/dlworhd/wiki/Documents#gh-dark-mode-only)
  
 </div>
  
