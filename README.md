@@ -69,9 +69,11 @@
 
 <br><br><br>
  
-[![iejayyoulight](https://user-images.githubusercontent.com/102597172/200901222-228007a4-54e6-4853-b6f2-e5fc32e42d18.png)](https://worhd.com#gh-light-mode-only)
-[![iejayyoudark](https://user-images.githubusercontent.com/102597172/200901258-09e7bd13-d657-42d2-a382-bde9de814a83.png)](https://worhd.com#gh-dark-mode-only)
+<!-- [![iejayyoulight](https://user-images.githubusercontent.com/102597172/200901222-228007a4-54e6-4853-b6f2-e5fc32e42d18.png)](https://worhd.com#gh-light-mode-only)
+[![iejayyoudark](https://user-images.githubusercontent.com/102597172/200901258-09e7bd13-d657-42d2-a382-bde9de814a83.png)](https://worhd.com#gh-dark-mode-only) -->
  
+ ![pngegg](https://user-images.githubusercontent.com/102597172/202889108-21bf4d3f-baa1-4071-b921-5ee0242cc57e.png)
+
 </div>
  
 
