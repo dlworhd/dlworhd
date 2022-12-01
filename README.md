@@ -1,4 +1,4 @@
-
+<!-- 
 <table> 
  
 <tr>
@@ -7,13 +7,7 @@
    
 <div align="center">
 
-<!-- ![PngItem_5172771](https://user-images.githubusercontent.com/102597172/200961962-4e473908-f6ea-4021-b318-821fb93eef81.png#gh-light-mode-only) -->
 
-<!-- ![Flag_of_South_Korea](https://user-images.githubusercontent.com/102597172/200976686-7d0ac35d-5756-43f6-9908-5bd8d05ff753.svg#gh-dark-mode-only) -->
-<!-- ![kaws](https://user-images.githubusercontent.com/102597172/200875839-7c6ae2f6-1b3a-424d-8c7b-cd7386788f33.png#gh-dark-mode-only) -->
-
-
-<!-- ![pngwing com (9)](https://user-images.githubusercontent.com/102597172/201266777-b857fdf9-4f96-4839-a0f6-4f929379c0c5.png) -->
  
 ![pngegg (12)](https://user-images.githubusercontent.com/102597172/201300721-31f81cb4-fdaa-4036-a939-2609ec881dc0.png)
 
@@ -68,9 +62,7 @@
 <div align="center">
 
 <br><br><br>
- 
-<!-- [![iejayyoulight](https://user-images.githubusercontent.com/102597172/200901222-228007a4-54e6-4853-b6f2-e5fc32e42d18.png)](https://worhd.com#gh-light-mode-only)
-[![iejayyoudark](https://user-images.githubusercontent.com/102597172/200901258-09e7bd13-d657-42d2-a382-bde9de814a83.png)](https://worhd.com#gh-dark-mode-only) -->
+
  
  ![pngegg](https://user-images.githubusercontent.com/102597172/202889108-21bf4d3f-baa1-4071-b921-5ee0242cc57e.png)
 
@@ -92,3 +84,4 @@
 
 
  
+ -->
