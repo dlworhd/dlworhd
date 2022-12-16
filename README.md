@@ -13,19 +13,14 @@
 ![pngegg (12)](https://user-images.githubusercontent.com/102597172/201300721-31f81cb4-fdaa-4036-a939-2609ec881dc0.png)
 
 
-
-
-
-
-
-
-
+ <br>
+ 
  [![Spotify](https://spotify-dlworhd.vercel.app/api/spotify?background_color=000000&border_color=ffffff)](https://open.spotify.com/user/313ijbdyxbmrtdmag7zhouojvdhe)
  
 
 
 
-
+<br>
 
 
 <img src="https://img.shields.io/badge/Oracle-ffffff?style=flat-square&logo=Oracle&logoColor=000000"/><br>
@@ -50,8 +45,6 @@
 <img src="https://img.shields.io/badge/slack-ffffff?style=flat-square&logo=slack&logoColor=000000"/><br>
 <img src="https://img.shields.io/badge/trello-ffffff?style=flat-square&logo=trello&logoColor=000000"/><br>
 
-
-<br>
 
 </div>
  
