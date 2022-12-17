@@ -1,9 +1,6 @@
 <!-- <img src="https://img.shields.io/badge/HTML5-ffffff?style=flat-square&logo=HTML5&logoColor=000000"/><img src="https://img.shields.io/badge/CSS3-ffffff?style=flat-square&logo=CSS3&logoColor=000000"/><img src="https://img.shields.io/badge/javascript-ffffff?style=flat-square&logo=javascript&logoColor=000000"/><img src="https://img.shields.io/badge/Spring Boot-ffffff?style=flat-square&logo=Spring Boot&logoColor=000000"/><img src="https://img.shields.io/badge/Oracle-ffffff?style=flat-square&logo=Oracle&logoColor=000000"/><img src="https://img.shields.io/badge/MySQL-ffffff?style=flat-square&logo=MySQL&logoColor=000000"/><img src="https://img.shields.io/badge/redis-ffffff?style=flat-square&logo=redis&logoColor=000000"/><img src="https://img.shields.io/badge/docker-ffffff?style=flat-square&logo=docker&logoColor=000000"/><img src="https://img.shields.io/badge/intellij IDEA-ffffff?style=flat-square&logo=intellij-idea&logoColor=000000"/><img src="https://img.shields.io/badge/eclipse-ffffff?style=flat-square&logo=eclipse&logoColor=000000"/><img src="https://img.shields.io/badge/gradle-ffffff?style=flat-square&logo=gradle&logoColor=000000"/><img src="https://img.shields.io/badge/notion-ffffff?style=flat-square&logo=notion&logoColor=000000"/><img src="https://img.shields.io/badge/slack-ffffff?style=flat-square&logo=slack&logoColor=000000"/><img src="https://img.shields.io/badge/trello-ffffff?style=flat-square&logo=trello&logoColor=000000"/> -->
 
 <img width="940" alt="profile" src="https://user-images.githubusercontent.com/102597172/208232747-5e5fb7be-1be6-4c3c-8e6e-3720d57248de.png">
-
-
-
 <!-- 
 
 <table> 
