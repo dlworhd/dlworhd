@@ -20,7 +20,7 @@
 ```
 
 <a href="https://open.spotify.com/user/313ijbdyxbmrtdmag7zhouojvdhe"> <img width="57.6%" src="https://spotify-dlworhd.vercel.app/api/spotify?background_color=000000&border_color=ffffff"></a>
-<a href="https://medium.com/@dlworhd"><img width="57.6%" src="https://medium-readme-stats.vercel.app/api/post?name=dlworhd"></a>
+<a href="https://medium.com/@dlworhd"><img width="57.6%" height="210" src="https://medium-readme-stats.vercel.app/api/post?name=dlworhd"></a>
 
 
 
