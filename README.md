@@ -5,11 +5,9 @@
 
 
 
- 
 
 
-
-<img align="left" width="40%" src="https://user-images.githubusercontent.com/102597172/208370683-e98a2697-ba6f-49d0-8b24-3aef3a0108e9.JPG">
+<img align="left" width="40%" height="488" src="https://user-images.githubusercontent.com/102597172/208386624-3b4ad74d-1c61-4941-b6df-ec1ae380f605.PNG">
 
 
 ```
