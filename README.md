@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  𝐇𝐢, 𝐓𝐡𝐞𝐫𝐞<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> 
+𝐇𝐞𝐥𝐥𝐨 𝐖𝐨𝐫𝐥𝐝 ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> 
 <p align="center"><img src="https://img.shields.io/badge/Spring Boot-000000?style=flat-square&logo=springboot&logoColor=green"/><img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=yellow"/><img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=red"/><a href="https://utfda.com"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white"/></a><a href="https://medium.com/@dlworhd"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white"></a></p></h1>
 
 
