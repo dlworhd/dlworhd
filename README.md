@@ -6,7 +6,7 @@
 
 <img align="left" width="40%" src="https://user-images.githubusercontent.com/102597172/208370683-e98a2697-ba6f-49d0-8b24-3aef3a0108e9.JPG">
 
-<a href="https://medium.com/@dlworhd"><img width="57.4%" src="https://medium-readme-stats.vercel.app/api/post?name=dlworhd"></a>
+<a href="https://medium.com/@dlworhd"><img width="57.5%" src="https://medium-readme-stats.vercel.app/api/post?name=dlworhd"></a>
 
 ```
 
