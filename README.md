@@ -12,7 +12,7 @@
 
 ```
 
-<a href="https://medium.com/@dlworhd"><img width="58%" src="https://medium-readme-stats.vercel.app/api/post?name=dlworhd"></a>
+<a href="https://medium.com/@dlworhd"><img width="56%" src="https://medium-readme-stats.vercel.app/api/post?name=dlworhd"></a>
 
 
 
