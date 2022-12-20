@@ -7,7 +7,8 @@
 
 
 
-<img align="left" width="40.8%" src="https://user-images.githubusercontent.com/102597172/208386624-3b4ad74d-1c61-4941-b6df-ec1ae380f605.PNG">
+
+<img align="left" width="48.8%" src="https://user-images.githubusercontent.com/102597172/208595999-da75796b-b0a7-4329-9285-2dbd1526fe3e.jpeg">
 
 
 ```
@@ -19,8 +20,8 @@
 
 ```
 
-<a href="https://open.spotify.com/user/313ijbdyxbmrtdmag7zhouojvdhe"> <img width="56.8%" src="https://spotify-dlworhd.vercel.app/api/spotify?background_color=000000&border_color=ffffff"></a>
-<a href="https://medium.com/@dlworhd"><img width="56.8%" src="https://medium-readme-stats.vercel.app/api/post?name=dlworhd"></a>
+<a href="https://open.spotify.com/user/313ijbdyxbmrtdmag7zhouojvdhe"> <img width="48.8%" src="https://spotify-dlworhd.vercel.app/api/spotify?background_color=000000&border_color=ffffff"></a>
+<a href="https://medium.com/@dlworhd"><img width="48.8%" src="https://medium-readme-stats.vercel.app/api/post?name=dlworhd"></a>
 
 
 
