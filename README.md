@@ -14,9 +14,9 @@
 
 
 
-<img align="left" width="44.7%" src="https://user-images.githubusercontent.com/102597172/202889108-21bf4d3f-baa1-4071-b921-5ee0242cc57e.png">
-<a href="https://medium.com/@dlworhd"><img width="52.9%" src="https://medium-readme-stats.vercel.app/api/post?name=dlworhd"></a>
-<img width="53%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ejay"/>
+<img align="left" width="39.2%" src="https://user-images.githubusercontent.com/102597172/202889108-21bf4d3f-baa1-4071-b921-5ee0242cc57e.png">
+<a href="https://medium.com/@dlworhd"><img width="58.1%" src="https://medium-readme-stats.vercel.app/api/post?name=dlworhd"></a>
+<img width="58.1%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ejay"/>
 
 ```
 
