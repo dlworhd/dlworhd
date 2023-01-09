@@ -14,7 +14,7 @@
 
 
 
-<img align="left" width="39.2%" src="https://user-images.githubusercontent.com/102597172/202889108-21bf4d3f-baa1-4071-b921-5ee0242cc57e.png">
+<img align="left" width="39.2%" src="https://user-images.githubusercontent.com/102597172/211234867-065ba702-f926-45f0-8861-17d20fb51e84.PNG">
 <a href="https://medium.com/@dlworhd"><img width="58.1%" src="https://medium-readme-stats.vercel.app/api/post?name=dlworhd"></a>
 <img width="58.1%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ejay"/>
 
