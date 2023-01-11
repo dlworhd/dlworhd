@@ -14,7 +14,7 @@
 
 
 <div align="center">
- <a href="https://medium.com/@dlworhd"><img width="34.4%" src="https://medium-readme-stats.vercel.app/api/post?name=dlworhd"></a>
+ <a href="https://medium.com/@dlworhd"><img width="41.1%" src="https://medium-readme-stats.vercel.app/api/post?name=dlworhd"></a>
 </div>
 <div align="center">
  <img src="http://mazandi.herokuapp.com/api?handle=ejay&theme=warm#gh-dark-mode-only"/>
