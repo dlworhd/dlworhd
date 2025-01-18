@@ -12,7 +12,7 @@
 <div align="center">
     <a href='https://github.com/phytoncideman' target="_blank"><img alt='Java/Spring' src='https://img.shields.io/badge/Java/Spring-00599C?style=flat&logo=springboot&logoColor=181818&labelColor=ffffff&color=ffffff'/></a>
     <a href='https://github.com/phytoncideman' target="_blank"><img alt='Kotlin' src='https://img.shields.io/badge/Kotlin-00599C?style=flat&logo=kotlin&logoColor=7F52FF&labelColor=ffffff&color=ffffff'/></a>
-    <a href='https://github.com/phytoncideman' target="_blank"><img alt='Go' src='https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=00ADD8&labelColor=ffffff&color=ffffff'/></a>
+<!--     <a href='https://github.com/phytoncideman' target="_blank"><img alt='Go' src='https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=00ADD8&labelColor=ffffff&color=ffffff'/></a> -->
     <a href='https://github.com/cppreme' target="_blank"><img alt='mysql' src='https://img.shields.io/badge/MySQL-100000.svg?style=flat&logo=mysql&logoColor=181818&labelColor=ffffff&color=ffffff'/></a>
 </div>
 <div align="center">
